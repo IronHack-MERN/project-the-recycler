@@ -64,7 +64,7 @@ Task definition in order of priority
 - Mover jugadoras en todas las direcciones
 - Aparezca un residuo en una coordenada random
 - Detección de colisión (jugador y residuo)
-- Lanzar el residuo al contenedor
+- Desplazarse al contenedor para reciclar el residuo
 - Botón de inicio
 
 
@@ -82,8 +82,7 @@ URls for the project repo and deploy
 
 
 ### Slides
-URls for the project presentation (slides)
-[Link Slides.com](http://slides.com)
+https://slides.com/elenapiaggio/
 
 
 
