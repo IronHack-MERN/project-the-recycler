@@ -5,20 +5,19 @@
 El juego consiste en que al "jugador" se le encomienda reciclar la máxima cantidad posible de residuos.
 Durante el juego le van apareciendo diferentes tipos de residuos que debe atrapar para luego lanzarlos a un contenedor dependiendo del tipo de residuo.
 - Gana si: atrapa el residuo y lo lanza al contenedor correcto, gana X puntos
-- Pierde si: falla 3 veces  
+- Pierde si: falla 3 veces
 
 
-## MVP (DOM - CANVAS)
+## MVP (CANVAS)
 - Pantalla de inicio del juego
 - "El jugador" se va moviendo por la pantalla para coger una botella de plástico, la cuál recicla acercándose al contenedor
 - Si lo hace bien suma puntos, sino pierde x puntos
-- Pantalla de fin del juego
+- Volver a comenzar
 
 
 ## Backlog
 - Hacer el Score y mostrarlas
 - Añadir oportunidades (3)
-- Volver a comenzar
 - Varios tipos de productos a reciclar
 - Varios contenedores 
 - Reciclar de acuerdo al tipo de producto en el contenedor correcto. 
@@ -72,7 +71,7 @@ Task definition in order of priority
 
 
 ### Trello
-https://trello.com/elenapiaggio/boards
+https://trello.com/b/AiWlpOQR/project-1-video-game-2d
 
 
 ### Git
